@@ -8,8 +8,8 @@ function staticLoadPlaces() {
     {
       name: "Triceratops",
       location: {
-        lat: 44.38207430207167,
-        lng: 26.130272905294945,
+        lat: 44.38226,
+        lng: 26.130421,
       },
     },
   ];
